@@ -23,7 +23,7 @@ app.on('ready', () => {
         win = null
     });
 
-    win.setMenu(null);
+    //win.setMenu(null);
 	win.webContents.openDevTools()
     console.log(process.versions);
 });

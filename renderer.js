@@ -1,4 +1,6 @@
 console.log('script!');
 
-var electron = require('electron');
-var spell = require('spellchecker');
+var HID = require('node-hid');
+
+var hidDevices = HID.devices() || [];
+console.log(hidDevices)

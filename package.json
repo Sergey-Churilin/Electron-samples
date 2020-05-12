@@ -33,6 +33,6 @@
   "devDependencies": {
     "electron": "9.0.0-beta.22",
     "electron-builder": "22.6.0",
-    "spellchecker": "3.7.0"
+    "node-hid": "1.2.0"
   }
 }
