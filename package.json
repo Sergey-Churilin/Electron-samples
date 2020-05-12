@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/clusterberries/electron-sample.git"
+    "url": "git+https://github.com/Sergey-Churilin/electron-sample.git"
   },
   "devDependencies": {
     "electron": "9.0.0-beta.22",
