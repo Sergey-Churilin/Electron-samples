@@ -24,6 +24,6 @@ app.on('ready', () => {
     });
 
     win.setMenu(null);
-	win.webContents.openDevTools()
+	win.webContents.openDevTools();
     console.log(process.versions);
 });
