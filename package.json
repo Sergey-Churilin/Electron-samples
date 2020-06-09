@@ -1,5 +1,5 @@
 {
-  "name": "spellchecker-sample",
+  "name": "electron-sample",
   "version": "0.1.0",
   "description": "",
   "main": "main.js",
@@ -31,8 +31,7 @@
     "url": "git+https://github.com/Sergey-Churilin/electron-sample.git"
   },
   "devDependencies": {
-    "electron": "9.0.0-beta.22",
-    "electron-builder": "22.6.0",
-    "spellchecker": "3.7.0"
+    "electron": "9.0.2",
+    "electron-builder": "22.7.0"
   }
 }
