@@ -1,4 +1,4 @@
-## Electron spellchecker sample
+## Electron sample
 
 **Commands to start the app:**
 ```npm i```
