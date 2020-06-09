@@ -33,5 +33,6 @@
   "devDependencies": {
     "electron": "9.0.2",
     "electron-builder": "22.7.0"
+    "node-abi": "^2.18.0"
   }
 }
