@@ -1,10 +1,10 @@
 {
-  "name": "electron-windows-notifications",
+  "name": "robotjs",
   "version": "1.0.0",
   "author": "Siarhei",
-  "description": "electron-windows-notifications",
-  "applicationTitle": "electron-windows-notifications",
+  "description": "robotjs",
+  "applicationTitle": "robotjs",
   "dependencies": {
-    "electron-windows-notifications": "3.0.6"
+    "robotjs": "0.6.0"
   }
 }
