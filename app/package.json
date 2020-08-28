@@ -1,0 +1,10 @@
+{
+  "name": "Node-hid sample",
+  "version": "1.0.0",
+  "author": "",
+  "description": "Node-hid sample",
+  "applicationTitle": "Node-hid sample",
+  "dependencies": {
+    "node-hid": "1.3.0"
+  }
+}

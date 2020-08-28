@@ -4,6 +4,7 @@
   "description": "",
   "main": "main.js",
   "scripts": {
+    "postinstall": "electron-builder install-app-deps",
     "start": "./node_modules/.bin/electron .",
     "build": "rm -rf dist/ && electron-builder --x64",
     "reinstall": "rm -rf node_modules/ && npm i && npm start"
@@ -31,7 +32,7 @@
     "url": "git+https://github.com/Sergey-Churilin/electron-sample.git"
   },
   "devDependencies": {
-    "electron": "9.0.2",
-    "electron-builder": "22.7.0"
+    "electron": "10.1.0",
+    "electron-builder": "22.8.0"
   }
 }
