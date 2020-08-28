@@ -1,9 +1,9 @@
 {
-  "name": "Node-hid sample",
+  "name": "Node-hid",
   "version": "1.0.0",
-  "author": "",
-  "description": "Node-hid sample",
-  "applicationTitle": "Node-hid sample",
+  "author": "Siarhei",
+  "description": "Node-hid",
+  "applicationTitle": "Node-hid",
   "dependencies": {
     "node-hid": "1.3.0"
   }
