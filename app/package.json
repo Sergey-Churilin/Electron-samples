@@ -1,10 +1,10 @@
 {
-  "name": "node-hid",
+  "name": "electron-windows-notifications",
   "version": "1.0.0",
   "author": "Siarhei",
-  "description": "Node-hid",
-  "applicationTitle": "Node-hid",
+  "description": "electron-windows-notifications",
+  "applicationTitle": "electron-windows-notifications",
   "dependencies": {
-    "node-hid": "1.3.0"
+    "electron-windows-notifications": "3.0.6"
   }
 }
