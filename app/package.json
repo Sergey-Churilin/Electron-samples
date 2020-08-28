@@ -1,10 +1,10 @@
 {
-  "name": "robotjs",
+  "name": "nodert",
   "version": "1.0.0",
   "author": "Siarhei",
-  "description": "robotjs",
-  "applicationTitle": "robotjs",
+  "description": "nodert",
+  "applicationTitle": "nodert",
   "dependencies": {
-    "robotjs": "0.6.0"
+    "@nodert-win10-au/windows.applicationmodel": "0.4.4"
   }
 }
